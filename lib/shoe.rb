@@ -8,7 +8,7 @@ class Shoe
     @brand = brand
     BRANDS.each do |brand_type|
         BRANDS<< brand
-      end
+      
      end
   end
   
